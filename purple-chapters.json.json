@@ -1,0 +1,257 @@
+{
+  "book": {
+    "title": "THE LIBRARY BETWEEN",
+    "subtitle": "Book I: Purple Chapters",
+    "id": "purple-chapters",
+    "language": "en"
+  },
+
+  "chapters": [
+    {
+      "id": "prologue",
+      "type": "prologue",
+      "number": 0,
+      "title": "The Door That Appeared at Midnight",
+      "label": "Prologue",
+      "quote": "You remembered her. Now read what happened to her.",
+      "image": "https://res.cloudinary.com/mcqe1y0t/image/upload/f_jpg/q_auto:best/cs_srgb/photo_2_2026-09-02_20-26-52_froeqv.jpg",
+      "pages": [
+        "Bora Han had always remembered things that other people forgot.",
+        "At nine years old, she remembered the little girl behind the window of a closed antique shop—the girl with wet hair, a violet dress, and one hand pressed against the glass.",
+        "No one else had seen her.",
+        "When Bora told her mother, the shop had already become a bakery. The antique dealer had never existed. The street had no empty window. Yet Bora still remembered the girl’s frightened face and the strange words she had traced onto the fogged glass:",
+        "Do not let them forget me.",
+        "Eleven years later, Bora still had no explanation.",
+        "On the last night of November, rain followed her home through the city. At 11:57 p.m., every streetlight flickered purple. A paper moth landed on her sleeve. It was folded from a page covered in handwriting, but the ink vanished whenever Bora tried to read it.",
+        "The moth flew down a narrow alley she had passed a hundred times before.",
+        "At its end stood a green door between two brick buildings.",
+        "Above it, a brass clock had no numbers. Its single hand moved toward midnight.",
+        "When it reached twelve, the door opened.",
+        "Inside was a library too large to fit inside any building. Its shelves disappeared into darkness. Books moved quietly from one place to another. Seven lamps burned around a central table, and on the table lay a closed violet book with no title.",
+        "Beside it was a ledger.",
+        "Bora opened it.",
+        "There was only one name written on the page:",
+        "Bora Han — Witness. Reader. Keeper of What Was Erased.",
+        "Then the violet book opened by itself.",
+        "On its first page, a sentence appeared.",
+        "You remembered her. Now read what happened to her.",
+        "And beneath the sentence was a title:",
+        "PURPLE CHAPTERS"
+      ]
+    },
+
+    {
+      "id": "chapter-1",
+      "type": "chapter",
+      "number": 1,
+      "title": "The Girl Everyone Forgot",
+      "label": "Chapter I",
+      "quote": "Only Elara remembered.",
+      "image": "https://res.cloudinary.com/mcqe1y0t/image/upload/f_jpg/q_auto:best/cs_srgb/photo_1_2026-09-02_20-26-50_q55ega.jpg",
+      "pages": [
+        "Seven years before Bora entered the Library, a girl named Elara Venn lived in the rain-dark city of Asterfall.",
+        "Asterfall was famous for its clock tower, its silver river, and the yearly Violet Rain—a storm that came once each autumn and left purple petals caught in every gutter and doorway.",
+        "It was also famous for forgetting.",
+        "People forgot small things first: where they had left their keys, the name of an old teacher, a song from childhood.",
+        "Then, one year, they began forgetting people.",
+        "Elara’s older sister, Iris, disappeared during the Violet Rain.",
+        "Her coat remained on the bridge. Her boots remained beside the river. Her room remained untouched.",
+        "But by morning, no one remembered that Iris had ever existed.",
+        "Not their parents. Not their neighbors. Not even Iris’s best friend.",
+        "Only Elara remembered.",
+        "For seven years, she kept Iris alive with lists: her favorite tea, the scar on her left knee, the way she laughed with her whole face. Everyone told Elara she was grieving a sister she had invented.",
+        "Then, on the seventh anniversary of Iris’s disappearance, a violet book appeared beneath Elara’s bedroom door.",
+        "Its first page read:",
+        "If you remember Iris, do not let them burn the seventh page.",
+        "Outside, the clock tower began to strike midnight."
+      ]
+    },
+
+    {
+      "id": "chapter-2",
+      "type": "chapter",
+      "number": 2,
+      "title": "The Letters Beneath the Post Office",
+      "label": "Chapter II",
+      "quote": "Some questions are safer unanswered.",
+      "image": null,
+      "pages": [
+        "The book led Elara to the abandoned post office at the edge of Asterfall.",
+        "Behind a locked iron door, she found thousands of letters stacked from floor to ceiling. Every envelope was addressed to someone the city had forgotten.",
+        "At the bottom of the pile was one letter addressed to her.",
+        "Inside, Iris had written:",
+        "Elara, I am alive. Do not trust the man who keeps the city peaceful. He is not saving people from pain. He is stealing the parts of them that make them real.",
+        "Before Elara could read the rest, a man’s voice came from the darkness.",
+        "“You should not be here.”",
+        "He was tall, dressed in pale gray, with ink-stained gloves and a silver key around his neck.",
+        "He called himself the Archivist.",
+        "He told Elara that forgetting was mercy. That memories caused grief, grief caused anger, and anger caused ruin. He said Iris had become part of the city’s protection.",
+        "Elara asked where her sister was.",
+        "The Archivist smiled.",
+        "“Some questions are safer unanswered.”",
+        "Then he set the letters on fire.",
+        "But one purple page escaped through the flames and landed at Elara’s feet.",
+        "It showed a garden beneath the city."
+      ]
+    },
+
+    {
+      "id": "chapter-3",
+      "type": "chapter",
+      "number": 3,
+      "title": "The Garden of Names",
+      "label": "Chapter III",
+      "quote": "Find the lantern that does not cast a shadow.",
+      "image": null,
+      "pages": [
+        "The garden was hidden below Asterfall, beneath the old railway tunnels.",
+        "Every flower there carried a name on its petals.",
+        "Elara found the names of children who had vanished from school records. The names of mothers no one visited anymore. The names of men whose faces had disappeared from family photographs.",
+        "Then she found Iris.",
+        "Her name was written on a violet flower that had not yet opened.",
+        "Elara was not alone. A young lamplighter named Theo found her in the garden. His mother had also been forgotten, though he had never dared to tell anyone. He had followed the same purple book for three nights.",
+        "Together, they discovered the truth: the flowers were not graves.",
+        "They were memories.",
+        "The Archivist had been taking memories from the people of Asterfall and planting them in the garden. He believed pain made people dangerous. If he removed every loss, betrayal, and regret, the city would become peaceful.",
+        "But the garden was dying.",
+        "Memories were never meant to be buried.",
+        "As Iris’s flower began to open, it whispered one sentence:",
+        "Find the lantern that does not cast a shadow."
+      ]
+    },
+
+    {
+      "id": "chapter-4",
+      "type": "chapter",
+      "number": 4,
+      "title": "The Lantern Without a Shadow",
+      "label": "Chapter IV",
+      "quote": "Your sister understood. That is why she stayed.",
+      "image": null,
+      "pages": [
+        "At the top of the clock tower, Elara and Theo found a room filled with lanterns.",
+        "Each lantern held the memory of a forgotten person.",
+        "Some glowed faintly. Some were almost dark.",
+        "At the center of the room hung one violet lantern that cast no shadow at all.",
+        "Inside it was Iris.",
+        "Not her body—her voice.",
+        "“I tried to stop him,” Iris said. “The Archivist was once a Reader of the Library. He found a way to take stories out of their books and lock them inside people. He believes he can edit the world into something painless.”",
+        "Elara reached for the lantern, but the tower shook.",
+        "The Archivist had found them.",
+        "He told Elara the truth that frightened her most: if every stolen memory returned at once, the city would remember every loss it had been protected from. Families would remember the dead. Friends would remember betrayals. Asterfall might tear itself apart.",
+        "“Your sister understood,” he said. “That is why she stayed.”",
+        "Elara looked at the violet lantern.",
+        "For the first time, she wondered whether saving Iris would destroy everyone else.",
+        "Then the lantern opened.",
+        "A map of stars appeared across the ceiling."
+      ]
+    },
+
+    {
+      "id": "chapter-5",
+      "type": "chapter",
+      "number": 5,
+      "title": "The Map Written in Starlight",
+      "label": "Chapter V",
+      "quote": "The sister she had spent seven years refusing to let disappear.",
+      "image": null,
+      "pages": [
+        "The star map led them beneath the clock tower, through tunnels filled with black water and floating pages.",
+        "At the end was a door made of purple glass.",
+        "Behind it was the Sea of Ink: a dark, endless place where unfinished stories gathered.",
+        "Iris stood on the other side.",
+        "She had not aged a day.",
+        "She told Elara that the Archivist could not create memories. He could only steal them and rewrite the spaces they left behind. Every forgotten person was trapped in the Sea of Ink, half-real and waiting for someone to remember them.",
+        "The seventh page of the purple book was the key.",
+        "But it demanded a price.",
+        "The person who opened it had to write the one memory they could never bear to lose.",
+        "If they wrote it, the memory would become powerful enough to restore every stolen story.",
+        "But it would also leave them forever.",
+        "Elara knew exactly what she would have to write.",
+        "Iris.",
+        "The sister she had spent seven years refusing to let disappear."
+      ]
+    },
+
+    {
+      "id": "chapter-6",
+      "type": "chapter",
+      "number": 6,
+      "title": "The Seventh Page",
+      "label": "Chapter VI",
+      "quote": "Iris Venn was here. She was loved. She was real.",
+      "image": null,
+      "pages": [
+        "The Archivist came to the Sea of Ink before Elara could decide.",
+        "He took the book from her hands and opened the seventh page himself.",
+        "The water rose. The city above began to tremble.",
+        "“You do not understand,” he said. “People beg to forget. They beg for another life. I only gave them what they wanted.”",
+        "Elara looked around at the lost people in the sea.",
+        "They were crying. They were laughing. They were calling names no one could hear.",
+        "“No,” she said. “You gave them silence.”",
+        "The Archivist laughed.",
+        "“And what will you give them? Pain?”",
+        "Elara took the book back.",
+        "She understood then that the choice was not between pain and peace.",
+        "It was between being hurt and being erased.",
+        "On the seventh page, she wrote:",
+        "Iris Venn was here. She was loved. She was real.",
+        "The words burned violet across the paper.",
+        "The Sea of Ink rose into the sky."
+      ]
+    },
+
+    {
+      "id": "chapter-7",
+      "type": "chapter",
+      "number": 7,
+      "title": "When the City Remembered",
+      "label": "Chapter VII",
+      "quote": "Stories do not survive because they are painless. They survive because someone remembers.",
+      "image": null,
+      "pages": [
+        "Purple rain fell over Asterfall for the first time in seven years.",
+        "Every drop carried a memory home.",
+        "Mothers remembered children. Old friends remembered promises. Empty photographs filled with faces. People stopped in the streets, holding their heads, crying for losses they had once been forced to forget.",
+        "The city did not become peaceful.",
+        "It became real.",
+        "The Archivist stood beneath the clock tower as every memory he had stolen returned to the people he had taken it from. For the first time, he remembered his own grief: the daughter he had lost, the pain he had tried to erase from the whole world.",
+        "He fell to his knees.",
+        "Iris returned from the Sea of Ink.",
+        "She was not exactly the girl Elara had lost. Seven years inside an unfinished story had changed her. But when she reached for Elara’s hand, Elara knew her.",
+        "The purple book closed.",
+        "On its final page, a new sentence appeared:",
+        "Stories do not survive because they are painless. They survive because someone remembers.",
+        "Then, beneath it, another message formed in unfamiliar handwriting:",
+        "To the girl in another world who saw Iris behind the glass: thank you for remembering.",
+        "The book vanished from Asterfall.",
+        "And crossed the space between worlds."
+      ]
+    },
+
+    {
+      "id": "epilogue",
+      "type": "epilogue",
+      "number": 8,
+      "title": "The First Reader",
+      "label": "Epilogue",
+      "quote": "The next book is already looking for you.",
+      "image": null,
+      "pages": [
+        "Bora sat alone in The Library Between until the last violet words disappeared from the page.",
+        "She finally understood why the Library had chosen her.",
+        "When she was nine, she had not imagined the girl in the antique-shop window.",
+        "For one second, the Sea of Ink had touched Bora’s world.",
+        "Iris had reached through it.",
+        "And Bora had remembered.",
+        "The Library chose Readers who could remember stories even when the world had decided to erase them. Readers were not chosen because they were perfect, brave, or special.",
+        "They were chosen because they refused to look away.",
+        "Bora closed Purple Chapters and placed it on the first shelf.",
+        "A small violet bookmark slipped from between the pages.",
+        "On it was one line:",
+        "The next book is already looking for you.",
+        "Beyond the shelves, somewhere deep in the Library, another light began to glow."
+      ]
+    }
+  ]
+}
