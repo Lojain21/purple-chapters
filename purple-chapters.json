@@ -13,6 +13,7 @@
       "number": 0,
       "title": "The Door That Appeared at Midnight",
       "label": "Prologue",
+      "u": true,
       "quote": "You remembered her. Now read what happened to her.",
       "image": "https://res.cloudinary.com/mcqe1y0t/image/upload/f_jpg/q_auto:best/cs_srgb/photo_2_2026-09-02_20-26-52_froeqv.jpg",
       "pages": [
@@ -46,6 +47,7 @@
       "number": 1,
       "title": "The Girl Everyone Forgot",
       "label": "Chapter I",
+      "u": true,
       "quote": "Only Elara remembered.",
       "image": "https://res.cloudinary.com/mcqe1y0t/image/upload/f_jpg/q_auto:best/cs_srgb/photo_1_2026-09-02_20-26-50_q55ega.jpg",
       "pages": [
@@ -73,6 +75,7 @@
       "number": 2,
       "title": "The Letters Beneath the Post Office",
       "label": "Chapter II",
+      "u": false,
       "quote": "Some questions are safer unanswered.",
       "image": null,
       "pages": [
@@ -101,6 +104,7 @@
       "number": 3,
       "title": "The Garden of Names",
       "label": "Chapter III",
+      "u": false,
       "quote": "Find the lantern that does not cast a shadow.",
       "image": null,
       "pages": [
@@ -126,6 +130,7 @@
       "number": 4,
       "title": "The Lantern Without a Shadow",
       "label": "Chapter IV",
+      "u": false,
       "quote": "Your sister understood. That is why she stayed.",
       "image": null,
       "pages": [
@@ -153,6 +158,7 @@
       "number": 5,
       "title": "The Map Written in Starlight",
       "label": "Chapter V",
+      "u": false,
       "quote": "The sister she had spent seven years refusing to let disappear.",
       "image": null,
       "pages": [
@@ -179,6 +185,7 @@
       "number": 6,
       "title": "The Seventh Page",
       "label": "Chapter VI",
+      "u": false,
       "quote": "Iris Venn was here. She was loved. She was real.",
       "image": null,
       "pages": [
@@ -207,6 +214,7 @@
       "number": 7,
       "title": "When the City Remembered",
       "label": "Chapter VII",
+      "u": false,
       "quote": "Stories do not survive because they are painless. They survive because someone remembers.",
       "image": null,
       "pages": [
@@ -235,6 +243,7 @@
       "number": 8,
       "title": "The First Reader",
       "label": "Epilogue",
+      "u": false,
       "quote": "The next book is already looking for you.",
       "image": null,
       "pages": [
